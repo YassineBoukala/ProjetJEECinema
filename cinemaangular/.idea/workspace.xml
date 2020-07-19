@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="688462d0-4d8d-46f0-b6ab-49f07dba0f2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/cinema/cinema.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/cinema/cinema.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/cinema/cinema.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/cinema/cinema.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/services/cinema.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/services/cinema.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema-Front-web/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema-Front-web/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cinema-Front-web" />
+  </component>
+  <component name="ProjectId" id="1cUldlqoNzCcMqljFhccoZWO45V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Cinema-Front-web" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+    <property name="ts.external.directory.path" value="C:\Users\lenovo\Desktop\WS-ANG\Cinema-Front-web\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (Cinema-Front-web)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/Cinema-Front-web/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/Cinema-Front-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688462d0-4d8d-46f0-b6ab-49f07dba0f2b" name="Default Changelist" comment="" />
+      <created>1590591144982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590591144982</updated>
+      <workItem from="1591384735152" duration="4204000" />
+      <workItem from="1591440545031" duration="4573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1591447782107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591447782107" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590591231974" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1591447787909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591447787909" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1591447787908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591447787908" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1591447787908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591447787908" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1591447787909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591447787909" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1591446822942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591446822942" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1590591164066">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590591164066" />
+  </component>
+</project>
